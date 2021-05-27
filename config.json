@@ -1,0 +1,13 @@
+{
+    "url": "http://localhost:2368/",
+    "headless": true,
+    "depthLevels": 1,
+    "inputValues": false,
+    "values": 
+		{ 
+			"ember8": "username",
+			"ember10": "password",
+      "ember12": ""
+		},
+    "browsers": ["chromium", "webkit", "firefox"]
+}
